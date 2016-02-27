@@ -1,0 +1,29 @@
+_repo: The-Variation-of-Animals-and-Plants-under-Domestication-Volume-2_2872
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_bookshelf:
+- Animals-Domestic
+- Botany
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Domestic animals'
+- !lcsh 'Plants, Cultivated'
+- !lcc 'QH'
+- !lcsh 'Variation (Biology)'
+title: The Variation of Animals and Plants under Domestication — Volume 2
+url: http://www.gutenberg.org/ebooks/2872
